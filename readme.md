@@ -7,7 +7,7 @@
 ## how to connect to git and github
 
 
-![git_github.png](:/fb92d31032584dff86b051ae48b93427)
+<img src="/home/amaru/Pictures/git_github.png">
 
 - git push -u  origin(branch )
 - como hacer un pul request and merge desde terminal
@@ -17,7 +17,8 @@
 - git log --pretty=format:%H ; para ver solo el ID y el message de los commits
 
 
-![git_github_05.png](:/b713c174c23c4501a08308744eab5e83)
+<img src="/home/amaru/Pictures/git_github_05.png">
+
 
 
 # References:
